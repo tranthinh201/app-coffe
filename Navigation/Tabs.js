@@ -232,3 +232,5 @@ const styles = StyleSheet.create({
 });
 
 export default Attack;
+
+// Trần Văn Thịnh
